@@ -1,0 +1,57 @@
+.header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../../images/header.png);
+    background-size: 100% 100%;
+    background-position: center;
+    height: 60vh;
+    border: 1px solid black;
+    color: rgba(255, 255, 255, 0.877);
+}
+
+.logo img {
+    width: 80px;
+}
+
+.nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.877);
+}
+
+.nav li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.nav {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.header-content {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.header-content h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+@media only screen and (max-width: 600px) {
+    .header-subcontent {
+        display: none;
+    }
+
+    .header-content h1 {
+        font-size: 40px;
+    }
+
+    .nav {
+        margin-left: auto;
+        margin-top: 20px;
+    }
+}

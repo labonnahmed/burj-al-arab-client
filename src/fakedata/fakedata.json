@@ -1,0 +1,28 @@
+[{
+    "id": 1,
+    "name": "Standard Signle Room",
+    "image": "https://i.postimg.cc/wjsL5r4D/Double.png",
+    "letter": "S",
+    "price": "149",
+    "geust": "1",
+    "bed": "1",
+    "description": "Lorem ipsum dolor sit amet consectetur adiping elit. Placeat cum perferendis sed illum."
+  }, {
+    "id": 2,
+    "name": "Luxury Couple Room",
+    "letter": "L",
+    "image": "https://i.postimg.cc/4xbNTbmr/Family.png",
+    "price": "299",
+    "geust": "2",
+    "bed": "1",
+    "description": "Lorem ipsum dolor sit amet consectetur adiping elit. Placeat cum perferendis sed illum."
+  }, {
+    "id": 3,
+    "name": "Family Capacity Room",
+    "letter": "F",
+    "image": "https://i.postimg.cc/FzLNC0MC/Single.png",
+    "price": "349",
+    "geust": "4",
+    "bed": "2",
+    "description": "Lorem ipsum dolor sit amet consectetur adiping elit. Placeat cum perferendis sed illum."
+  }]

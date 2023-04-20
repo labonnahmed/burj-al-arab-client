@@ -1,0 +1,12 @@
+.room-card{
+    padding:30px 0px;
+}
+
+.booking-card-action{
+    display: flex;
+    justify-content: space-between;
+}
+
+.booking-card-action h5{
+    margin-top: 5px;
+}
